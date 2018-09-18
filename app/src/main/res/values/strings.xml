@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Footballapps</string>
+    <string name="vs">vs</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="data_tidak_ada">Data tidak ada</string>
+    <string name="favorite">Favorite</string>
+</resources>
